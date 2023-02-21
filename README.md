@@ -1,2 +1,0 @@
-# psxtradescamlua
-tradescam psx
